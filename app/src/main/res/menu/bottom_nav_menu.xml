@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newMenuItem"
+        android:title="@string/new_page_header_text"
+        android:icon="@drawable/new_icon"/>
+    <item
+        android:id="@+id/popularMenuItem"
+        android:title="@string/popular_page_header_text"
+        android:icon="@drawable/popular_icon"/>
+
+</menu>

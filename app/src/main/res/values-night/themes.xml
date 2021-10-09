@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WebantApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/darkpurple</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/purple_700</item>
+    </style>
+
+    <style name="StyleBottomNavView" parent="Widget.Design.BottomNavigationView">
+        <item name="backgroundTint">@color/white</item>
+        <item name="itemIconTint">@color/bottom_nav_item</item>
+        <item name="itemTextColor">@color/bottom_nav_item</item>
+    </style>
+
+    <style name="StyleNoInternetTextView1" parent="Base.Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/darkpurple</item>
+        <item name="fontFamily">@font/compact_display_semibold</item>
+    </style>
+
+    <style name="StyleNoInternetTextView2" parent="Base.Widget.AppCompat.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/compact_display_semibold</item>
+    </style>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebantApp</string>
+    <string name="popular_page_header_text">Popular</string>
+    <string name="new_page_header_text">New</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_text2">Slow or no internet connection.\nPlease check your internet settings</string>
+    <string name="no_internet_text1">Oh Shucks!</string>
+    <string name="info_page_text_description">Description</string>
+    <string name="info_page_text_name">Name</string>
+</resources>
